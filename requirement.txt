@@ -1,0 +1,12 @@
+#### 2\. `requirements.txt` (Root Folder)
+
+```text
+langchain
+unstructured[pdf]
+pytesseract
+pdf2image
+pymongo
+chromadb
+streamlit
+openai
+python-dotenv
